@@ -1,5 +1,6 @@
 package main
 
+
 import (
 	"log"                     	// Пакет для логирования
 	"github.com/gin-gonic/gin"	// Веб-фреймворк Gin
